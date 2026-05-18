@@ -1,0 +1,5 @@
+data/raw/
+__pycache__/
+.ipynb_checkpoints/
+*.duckdb
+data/parquet/brfss_raw.parquet

@@ -1,0 +1,11 @@
+pandas
+numpy
+duckdb
+xgboost
+shap
+plotly
+scikit-learn
+pyspark
+streamlit
+pyarrow
+findspark
